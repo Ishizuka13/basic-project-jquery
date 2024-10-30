@@ -39,10 +39,6 @@
         class="d-flex gap-2 justify-content-center bg-dark-subtle
         vw-100 py-4 position-fixed bottom-0 start-0">
         <h5>Desenvolvido por <a href="https://github.com/Ishizuka13">Ishizuka13</a></h5>
-        <img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" height="40px"
-            alt="Logo Laravel">
-        <img src="https://static-00.iconduck.com/assets.00/jquery-original-wordmark-icon-485x512-7kn0h2yt.png"
-            height="40px" alt="Logo jQuery">
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
